@@ -9,8 +9,8 @@ ADMIN = int(os.environ.get("ADMIN", "7251898668 1337857036"))
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002190352334"))
 NEW_REQ_MODE = os.environ.get("NEW_REQ_MODE", "True").lower() == "true"  # Set "True" For accept new requests
 
-DB_URI = os.environ.get("DB_URI", "")
-DB_NAME = os.environ.get("DB_NAME", "")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://stephanatan:Izdm7gWrWHPCa1ni@cluster0.xcokud5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 IS_FSUB = os.environ.get("IS_FSUB", "True").lower() == "true"  # Set "True" For Enable Force Subscribe
 AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-1002442422204 -1001785093771").split())) # Add Multiple channel ids
