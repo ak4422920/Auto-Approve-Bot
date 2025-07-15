@@ -5,7 +5,7 @@ API_ID = os.environ.get("API_ID", "29171167")
 API_HASH = os.environ.get("API_HASH", "7ea2149629e445936619f06a3c0dc716")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 ADMIN = int(os.environ.get("ADMIN", "7251898668"))
-PICS = (os.environ.get("PICS", "")).split()
+PICS = (os.environ.get("PICS", "https://envs.sh/iaV.jpg")).split()
 
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002208313355"))
 NEW_REQ_MODE = os.environ.get("NEW_REQ_MODE", "True").lower() == "true"  # Set "True" For accept new requests
