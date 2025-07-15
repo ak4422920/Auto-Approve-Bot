@@ -5,7 +5,7 @@ class text(object):
 
 𝖩𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗂𝗇 𝗒𝗈𝗎𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅𝗌 𝖺𝗇𝖽 𝗀𝗋𝗈𝗎𝗉𝗌 𝗐𝗂𝗍𝗁 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇 𝗍𝗈 𝖺𝖽𝖽 𝗇𝖾𝗐 𝗆𝖾𝗆𝖻𝖾𝗋𝗌.
 
-<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></b></blockquote>"""
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/akmoviebotz'>AkMovieBotz</a></b></blockquote>"""
 
     LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -16,12 +16,12 @@ class text(object):
 
 𝘉𝘺 = @{}"""
 
-    ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@techifybots'>ǫᴜɪᴄᴋ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ</a>
+    ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='http://t.me/autoapprovalakbot'>Autoapprovalakbot</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a></b>"""
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/akmoviebotz'>Akmoviebotz</a></b>"""
 
     HELP = """{},
 
@@ -36,4 +36,4 @@ class text(object):
 ➥ 𝖭𝗈𝗐 𝗎𝗌𝖾 /accept 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝖼𝖼𝖾𝗉𝗍 𝖺𝗅𝗅 𝗉𝖾𝗇𝖽𝗂𝗇𝗀 𝗋𝖾𝗊𝗎𝖾𝗌𝗍𝗌.
 ➥ 𝖭𝗈𝗐 𝗃𝗎𝗌𝗍 𝗎𝗌𝖾 /logout 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝖿𝗈𝗋 𝗅𝗈𝗀𝗈𝗎𝗍.
 
-<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://telegram.me/TechifyRahul'>𝖱𝖺𝗁𝗎𝗅</a></blockquote></b>"""
+<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://telegram.me/The_SonGoku'>The_SonGoku</a></blockquote></b>"""
