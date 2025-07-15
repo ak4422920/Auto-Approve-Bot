@@ -9,10 +9,10 @@ async def callback_query_handler(client, query: CallbackQuery):
         await query.message.edit_caption(
             caption=text.START.format(query.from_user.mention),
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('⇆ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ⇆', url=f"https://telegram.me/QuickAcceptBot?startgroup=true&admin=invite_users")],
+                [InlineKeyboardButton('⇆ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 ⇆', url=f"https://telegram.me/autoapprovalakbot?startgroup=true&admin=invite_users")],
                 [InlineKeyboardButton('ℹ️ 𝖠𝖻𝗈𝗎𝗍', callback_data='about'),
                  InlineKeyboardButton('📚 𝖧𝖾𝗅𝗉', callback_data='help')],
-                [InlineKeyboardButton('⇆ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ⇆', url=f"https://telegram.me/QuickAcceptBot?startchannel=true&admin=invite_users")]
+                [InlineKeyboardButton('⇆ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 ⇆', url=f"https://telegram.me/autoapprovalakbot?startchannel=true&admin=invite_users")]
             ])
         )
 
@@ -20,8 +20,8 @@ async def callback_query_handler(client, query: CallbackQuery):
         await query.message.edit_caption(
             caption=text.HELP.format(query.from_user.mention),
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://telegram.me/Techifybots'),
-                 InlineKeyboardButton('💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url='https://telegram.me/TechifySupport')],
+                [InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://telegram.me/akmoviebotz'),
+                 InlineKeyboardButton('💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url='https://telegram.me/AkMoviesHubBackup')],
                 [InlineKeyboardButton('↩️ 𝖡𝖺𝖼𝗄', callback_data="start"),
                  InlineKeyboardButton('❌ 𝖢𝗅𝗈𝗌𝖾', callback_data="close")]
             ])
