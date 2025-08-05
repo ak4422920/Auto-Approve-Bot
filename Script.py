@@ -5,7 +5,7 @@ class text(object):
 
 𝖩𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗂𝗇 𝗒𝗈𝗎𝗋 𝖼𝗁𝖺𝗇𝗇𝖾𝗅𝗌 𝖺𝗇𝖽 𝗀𝗋𝗈𝗎𝗉𝗌 𝗐𝗂𝗍𝗁 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇 𝗍𝗈 𝖺𝖽𝖽 𝗇𝖾𝗐 𝗆𝖾𝗆𝖻𝖾𝗋𝗌.
 
-<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></b></blockquote>"""
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Akmoviebotz'>NullZoro</a></b></blockquote>"""
 
     LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -16,12 +16,12 @@ class text(object):
 
 𝘉𝘺 = @{}"""
 
-    ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@techifybots'>ǫᴜɪᴄᴋ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ</a>
+    ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/LetMeInSenpaiBot'>Auto ᴀᴄᴄᴇᴘᴛ ʙᴏᴛ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a></b>"""
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/AkMoviesHubBackup'>AkMoviesHubBackup</a></b>"""
 
     HELP = """{},
 
@@ -39,4 +39,4 @@ class text(object):
 𝟑. 𝐇𝐨𝐰 𝐭𝐨 𝐜𝐚𝐧𝐜𝐞𝐥 𝐚 𝐩𝐫𝐨𝐜𝐞𝐬𝐬?
 ➥ 𝖴𝗌𝖾 /cancel 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝗌𝗍𝗈𝗉 𝖺𝗇𝗒 𝗈𝗇𝗀𝗈𝗂𝗇𝗀 𝗉𝗋𝗈𝖼𝖾𝗌𝗌.
 
-<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://telegram.me/TechifyRahul'>𝖱𝖺𝗁𝗎𝗅</a></blockquote></b>"""
+<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://telegram.me/AK_ownerbot'>AK_ownerbot</a></blockquote></b>"""
